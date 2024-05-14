@@ -21,9 +21,9 @@
 - Nós possuímos três tipos de sistemas, cada um preparado com um objetivo diferente dentro da sua comunidade do Discord, sem contar que também temos recursos a serem adicionados exclusivamente para seu BOT, então há inúmeros outros tipos, mas focamos especialmente em três a pronto-entrega para nossos clientes. Se você tem um grupo para comunidades de amigos, então que tal um sistema de ticket básico? É ótimo, barato e organizado para pequenos grupos. Tem uma empresa pequena? Então um sistema de ticket mais avançado que demonstre profissionalismo na sua comunidade já é algo mais agradável, uma interface melhorada, novas opções de respostas e alguns recursos adicionais. Por fim, possui uma empresa já chamativa, então o tipo três é o mais estravagante e o melhor para manter o profissionalismo, elegância e modernidade no seu grupo, demonstre seu diferencial com esse sistema, tudo incluso, de sistemas básicos a avançados de monitoramento e gerenciamento de membros. Quer saber mais? Veja abaixo o que mais te agradou nesse pequeno resumo e descubra.
 
 </p><div align="right">
-  <h3>Sistema básico</h4>
+  <h3>Valores e recursos</h4>
 </div>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1184946106422014023/1239796942406684704/background.png?ex=66443a61&is=6642e8e1&hm=f052a111af808be73c8b15b25e1186150f3b4550a35790f5cf381c90141e7e83&"> 
+  <img src="https://media.discordapp.net/attachments/1184946106422014023/1239820937143255091/vendas-ticket.png?ex=664450ba&is=6642ff3a&hm=775daa15ec1898991811fb40a0c4b6f29ca77f8199104ddb9c65351d5ff27792&=&format=webp&quality=lossless"> 
 </p><div align="center">
