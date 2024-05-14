@@ -25,5 +25,5 @@
 </div>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1184946106422014023/1239820937143255091/vendas-ticket.png?ex=664450ba&is=6642ff3a&hm=775daa15ec1898991811fb40a0c4b6f29ca77f8199104ddb9c65351d5ff27792&=&format=webp&quality=lossless"> 
+  <img src="https://media.discordapp.net/attachments/1184946106422014023/1239822615493738539/vendas-ticket.png?ex=6644524a&is=664300ca&hm=0888deef5c42ef3ec4b596b281664d308843228e14caf5bef6174a1369f76665&=&format=webp&quality=lossless"> 
 </p><div align="center">
