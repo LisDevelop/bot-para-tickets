@@ -26,4 +26,20 @@
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1184946106422014023/1239822615493738539/vendas-ticket.png?ex=6644524a&is=664300ca&hm=0888deef5c42ef3ec4b596b281664d308843228e14caf5bef6174a1369f76665&=&format=webp&quality=lossless"> 
-</p><div align="center">
+</p>
+<hr>
+
+### Ticket Simples
+- Interface simples e agradável
+  - Uma embed criada automaticamente na criação do BOT e confirmação do plano de pagamento no canal selecionado para os tickets; e
+  - Embed objetiva e pequena no momento de criação do ticket;
+- Interativo por botões
+  - Botão de 'Criar Ticket' na embed principal do sistema de tickets; e
+  - Botão de 'Encerrar Ticket' na embed enviada ao canal do ticket gerado;
+  - Botão de 'Trancar/destrancar ticket' na embed enviada ao canal do ticket gerado;
+- Limite de um cargo de acesso
+  - Bloqueado para apenas um cargo *(role)* administrativa, ou seja, apenas um cargo selecionado na ativação do plano terá acesso ao canal gerado de ticket;
+- Trancar/destrancar ticket
+  - Bloquear/desbloquear canal para o usuário que gerou o ticket
+- Trancar/Destrancar sistema
+  - Recurso inserido no painel do cliente onde apenas o gestor consegue usar para trancar e destrancar o sistema de ticket;
