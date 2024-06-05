@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1184946106422014023/1239789536842743828/ticket1.png?ex=6644337b&is=6642e1fb&hm=1361929a6db12d1490b856f42437f9f3147930167a2d0f4620e335c29b186529&"> 
+  <img src="https://media.discordapp.net/attachments/1184946106422014023/1239789536842743828/ticket1.png?ex=66608bbb&is=665f3a3b&hm=eb73d6fa5f8727646b9cdab6ed973477ca4d032829997a4b53a2f3464d7a46fd&=&format=webp&quality=lossless"> 
 </p><div align="center">
   <h5>COPYRIGHT © LisGood LTDA. The progress and development.</h4>
 </div>
