@@ -27,3 +27,40 @@
 <p align="center">
   <img src="https://i.imgur.com/p3lMi3C.png"> 
 </p>
+
+</p><div align="left">
+  <h3>Informações avançadas sobre o produto</h4>
+</div>
+
+### Ticket Simples:
+- `Interface simples e intuitiva`: Uma Embed definida em um canal específico adicionado pelo gestor do BOT;
+- `Botão de criação e gerenciamento`: Um botão para criar o ticket anexado na embed e os botões de trancar/fechar ticket;
+- `Limite por um cargo de acesso`: Apenas um cargo terá acesso geral sobre os tickets;
+- `Propriedades administrativas`: Função específica de fechar/trancar um ticket como administrador;
+- `Contador de tickets por usuário`: Limite de tickets criados por usuário no dia (10);
+- `Máx. Dez tickets livres na categoria`: Limite de 10 tickets criados;
+
+### Ticket Plus:
+- `Interface padrão e otimizada`: Uma embed mais descritiva, um botão com texto e emoji personalizável e quando criado uma embed + menu com algumas questões rápidas;
+- `Botões de criação e perguntas Freq`: Um botão personalizável de criação e outro sobre perguntas frequentes totalmente moldável ao gosto do usuário;
+- `Prop. Administrativas intermediárias`: Botões de propriedades administrativas: Definir prioridade nos tickets, assumir ticket, alterar dono, trancar/destrancar ticket;
+- `Limite de cinco cargos por acesso`: Em até cinco cargos com acesso aos canais gerados pelo sistema de ticket;
+- `Ticket-logs limitado sem imagens`: Sistema de logs salvando arquivo em html, porém, sem imagens registradas;
+- `Mensagens automáticas de resposta`: Respostas automáticas quando o canal é criado e enviar mensagem quando o administrador assumir ticket;
+- `Limite de cinco perguntas por menu`: Um menu personalizável na embed enviada com até cinco perguntas rápidas;
+- `Bloqueio de ticket por usuário`: Bloqueia o sistema de ticket para um usuário a qualquer momento;
+- `Max. vinte tickets livres na categoria`: Até 20 canais criados na categoria;
+
+### Ticket Premium:
+- `Interface visual completa`: Uma embed totalmente estilizável, um menu com solicitações mais concentradas sobre a dúvida;
+- `Propriedades administrativas ilimitadas`: Acesso a: Definir prioridade, assumir ticket, mencionar usuário, trancar/destrancar personalizado, alterar dono, adicionar usuário, remover usuário;
+- `Botão de link, criação e perguntas Freq`: Na embed do ticket, definimos três botões: Link que direciona a outros canais/sites, criação rápida com dúvidas pré-definidas e perguntas frequentes;
+- `Ticket-logs completo e automático`: Sistema de salvamento de tickets por html com imagem e conteúdo salvo;
+- `Limite de tickets ilimitado`: Não há limite de tickets criados na categoria;
+- `Gerenciamento completo do seu BOT`: Acesso a gestão completa do seu BOT, definir canais, alterar embed, botões;
+- `Menções automáticas no ticket`: A cada 5 horas o BOT menciona os usuários que estão no ticket;
+- `Mensagens automáticas por menu`: Um menu com várias questões pré-definidas;
+- `Definir um cargo com prioridade`: Limite de um cargo que, quando criar seu ticket, terá prioridade;
+- `Limite ilimitado de cargos com acesso`: Não há limite de cargos, o dono do ticket pode adicionar quantos forem necessários;
+- `Modificação de prefixo por canais`: Modificar o nome que pode ser adicionado nos canais;
+- `Monitoramento automático de usuário`: Verifica se o usuário é ativo dentro da comunidade e entrega prioridade para ele;
