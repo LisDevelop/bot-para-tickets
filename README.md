@@ -14,7 +14,7 @@
 - Não está cansado de receber várias mensagens no privado e se perder pela desorganização? Então, agora é a melhor oportunidade para ter um sistema imersivo dentro da sua comunidade do Discord! Um sistema de ticket simples e organização, algo para poder colocar em prática com seus amigos e usar desses recursos para melhorar sua organização. Tem uma empresa? Então um ticket totalmente profissional é perfeito para você, armazena informações importantes, faz automação de respostas e filtra aqueles que querem apenas tirar dúvidas superficiais para aqueles que realmente possuem dúvidas importantíssimas para fazer com você ou sua equipe. O sistema de ticket feito por nós da **LisStore** possui uma interface prática e objetiva de uso, focamos em algo que possa ser usado rapidamente e evita congestionamento de informações, veja algumas informações sobre abaixo.
 
 <p align="left">
-  <img src="https://cdn.discordapp.com/attachments/1184946106422014023/1239795320200892436/line.png?ex=664438de&is=6642e75e&hm=faafaea5dbdbd2bdc928b6f88ce89893f860eb3846e011e8546774eb65cd69af&"> 
+  <img src="https://i.imgur.com/x3rp2j7.png"> 
 </p>
 
 ### Como funciona o sistema de tickets?
@@ -25,5 +25,5 @@
 </div>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1184946106422014023/1239822615493738539/vendas-ticket.png?ex=6644524a&is=664300ca&hm=0888deef5c42ef3ec4b596b281664d308843228e14caf5bef6174a1369f76665&=&format=webp&quality=lossless"> 
+  <img src="https://i.imgur.com/p3lMi3C.png"> 
 </p>
